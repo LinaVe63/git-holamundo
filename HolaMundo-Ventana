@@ -1,0 +1,19 @@
+/**
+* Hola Mundo en proyeccion de ventana 
+*/
+
+package miprimeraappenjava ;
+
+import javax.swing.JOptionPane;
+
+/**
+ * @author Lina Margarita Vela Bonilla COD 20232217336
+ */
+
+public class miprimeraappenjava {
+
+    public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "Hola Mundo!!");
+        
+    }
+}
